@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\TRY\TRY\bin\Debug\TRY.exe.config
+C:\Users\Owner\Desktop\TRY\TRY\bin\Debug\TRY.exe
+C:\Users\Owner\Desktop\TRY\TRY\bin\Debug\TRY.pdb
+C:\Users\Owner\Desktop\TRY\TRY\obj\Debug\TRY.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\TRY\TRY\obj\Debug\TRY.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\TRY\TRY\obj\Debug\TRY.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\TRY\TRY\obj\Debug\TRY.exe
+C:\Users\Owner\Desktop\TRY\TRY\obj\Debug\TRY.pdb
